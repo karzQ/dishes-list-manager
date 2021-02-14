@@ -39,7 +39,7 @@ const SettingsScreen = ({navigation}) => {
 
                     <Button
                         onPress={() => navigation.navigate('Créer un plat')}
-                        title="Créer un plat" />
+                        title="Créer un plat (WIP)" />
                     
                     <Button
                         disabled={true}
